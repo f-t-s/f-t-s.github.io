@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
+#### Teaching assistant at Caltech:
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+###### ACM 118: Stochastic Processes and Regression (Winter 2019/20)
+###### ACM 201: Partial Differential Equations (Fall 2018)
+###### ACM 216: Markov Chains, Discrete Stochastic Processes and Applications (Winter 2017/18)
+###### ACM 95b: Introductory Methods of Applied Mathematics (Winter 2016/17)
+###### ACM 104: Applied Linear Algebra (Fall 2016)
+---

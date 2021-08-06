@@ -31,8 +31,14 @@ $grey-900:            #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// Adding the Florian color-scheme colors
+$theme-seagreen-color: #23553c;
+$theme-greyblue-color: #a1b4c7;
+$theme-silvergrey-color: #b0aba8;
+$theme-orange-color: #ea8810;
+$theme-rust-color: #b8420f;
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($theme-seagreen-color, 0.05);
 $code-bg-color-dark:      #2c3237 !default;

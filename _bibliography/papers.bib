@@ -3,74 +3,104 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+@InProceedings{yu2021robust,
+  title = 	 {Robust Reinforcement Learning: A Constrained Game-theoretic Approach},
+  author =       {Yu, Jing and Gehring, Clement and Sch\"afer, Florian and Anandkumar, Animashree},
+  booktitle = 	 {Proceedings of the 3rd Conference on Learning for Dynamics and Control},
+  pages = 	 {1242--1254},
+  year = 	 {2021},
+  hidden_year={2021},
+  editor = 	 {Jadbabaie, Ali and Lygeros, John and Pappas, George J. and A.&nbsp;Parrilo, Pablo and Recht, Benjamin and Tomlin, Claire J. and Zeilinger, Melanie N.},
+  volume = 	 {144},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {07 -- 08 June},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v144/yu21a/yu21a.pdf},
+  url = 	 {http://proceedings.mlr.press/v144/yu21a.html},
+  abstract = 	 {Deep reinforcement learning (RL) methods provide state-of-art performance in complex control tasks. However, it has been widely recognized that RL methods often fail to generalize due to unaccounted uncertainties. In this work, we propose a game theoretic framework for robust reinforcement learning that comprises many previous works as special cases. We formulate robust RL as a constrained minimax game between the RL agent and an environmental agent which represents uncertainties such as model parameter variations and adversarial disturbances. To solve the competitive optimization problems arising in our framework, we propose to use competitive mirror descent (CMD). This method accounts for the interactive nature of the game at each iteration while using Bregman divergences to adapt to the global structure of the constraint set. We demonstrate an RRL policy gradient algorithm that leverages Lagrangian duality and CMD. We empirically show that our algorithm is stable for large step sizes, resulting in faster convergence on linear quadratic games. }
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+
+@article{owhadi2019statistical,
+  title={Statistical numerical approximation},
+  author={Owhadi, Houman and Scovel, Clint and Sch{\"a}fer, Florian},
+  journal={Notices of the American Mathematical Society},
+  volume={66},
+  number={10},
+  hidden_year={2019},
+  html={https://www.ams.org/journals/notices/201910/rnoti-p1608.pdf},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  selected={true}
+@ARTICLE{EfRuSc17a,
+  AUTHOR = {Effland, Alexander and Rumpf, Martin and Sch\"afer, Florian},
+  TITLE = {Image extrapolation for the time discrete metamorphosis model --
+	existence and applications},
+  JOURNAL = {SIAM Journal on Imaging Sciences},
+  HIDDEN_YEAR = {2018},
+  ARXIV = {1705.04490},
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{schaefer2020competitive,
+  author  = {Sch{\"a}fer, Florian and Anandkumar, Anima and Owhadi, Houman},
+  title   = {Competitive Mirror Descent},
+  hidden_year    = {2020},
+  arxiv   = {2006.10179},
+  SLIDES = {slides_cmd.pdf},
+  TALK= {https://slideslive.com/38931529/competitive-mirror-descent},
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{schaefer2020sparse,
+  author  = {Sch{\"a}fer, Florian and Katzfuss, Matthias and Owhadi, Houman},
+  title   = {Sparse Cholesky factorization by Kullback-Leibler minimization},
+  hidden_year    = {2020},
+  arxiv   = {2004.14455},
+  selected = {true},
+  talk= {https://www.youtube.com/watch?v=Hdhv-moeR5U&},
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{schaefer2017compression,
+  TITLE = {Compression, inversion, and approximate PCA of dense kernel matrices at near-linear computational complexity},
+  AUTHOR = {Sch{\"a}fer, Florian and Sullivan, T. J. and Owhadi, Houman},
+  HIDDEN_YEAR = {2017},
+  ARXIV = {1706.02205},
+  BLOG={/projects/cholesky/},
+  SELECTED = {true},
+  TALK ={https://www.youtube.com/watch?v=Hdhv-moeR5U&t=289},
+  Journal = {To appear in SIAM Multiscale Modeling and Simulation},
+}
+
+@inproceedings{schaefer2019implicit,
+  TITLE = {Implicit competitive regularization in GANs},
+  AUTHOR = {Sch{\"a}fer, Florian and Zheng, Hongkai and Anandkumar, Anima},
+  BOOKTITLE={the 37th International Conference on Machine Learning (ICML 2020)},
+  HIDDEN_YEAR = {2019},
+  ARXIV = {1910.05852},
+  SLIDES = {slides_icr.pdf},
+  TALK={https://slideslive.com/38928451/implicit-competitive-regularization-in-gans},
+  BLOG={/projects/icr/},
+  SELECTED = {true},
+}
+
+@inproceedings{effland2017time,
+  title={Time discrete extrapolation in a Riemannian space of images},
+  author={Effland, Alexander and Rumpf, Martin and Sch{\"a}fer, Florian},
+  booktitle={International Conference on Scale Space and Variational Methods in Computer Vision},
+  pages={473--485},
+  hidden_year={2017},
+  organization={Springer}
+}
+
+@inproceedings{NIPS2019_8979,
+  title = {Competitive Gradient Descent},
+  author = {Sch{\"a}fer, Florian and Anandkumar, Anima},
+  booktitle = {Advances in Neural Information Processing Systems 32},
+  hidden_year = {2019},
+  html = {http://papers.nips.cc/paper/8979-competitive-gradient-descent.pdf},
+  ARXIV = {1905.12103},
+  SLIDES = {slides_cgd.pdf},
+  POSTER = {neuripsCGD.pdf},
+  BLOG={/projects/cgd/},
+  SELECTED = {true},
 }
 
 @book{przibram1967letters,

@@ -22,7 +22,7 @@
     <script async type="text/json">{
       "title": "{{ page.title }}",
       "description": "{{ page.description }}",
-      "published": "{{ page.date | date: '%B %-d, %Y' }}",
+      <!-- "published": "{{ page.date | date: '%B %-d, %Y' }}",
       "authors": [
         {% for author in page.authors -%}
         {
@@ -36,7 +36,7 @@
           ]
         }{% if forloop.last == false %},{% endif %}
         {% endfor %}
-      ],
+      ],-->
       "katex": {
         "delimiters": [
           {

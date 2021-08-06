@@ -9,17 +9,21 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>S1317 CODA</p>
+    <p>756 W Peachtree St</p>
+    <p>Atlanta, GA 30332</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Florian Schäfer, assistant professor in the [School of Computational Science and Engineering](https://cse.gatech.edu/) at [Georgia Tech](https://gatech.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained my PhD in applied and computational mathematics at [Caltech](http://www.caltech.edu/), advised by [Houman Owhadi](http://users.cms.caltech.edu/~owhadi/index.htm)
+Before, that I obtained my Bachelor's-- and Master's degrees in Mathematics at the [University of Bonn](https://www.mathematics.uni-bonn.de/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie at the interface of numerical computation, statistical inference, and competitive games. 
+To learn more, have a look at these [high-level summaries](/projects/) or my [thesis defense](https://youtu.be/Ph1pAv92WBQ).
+
+**I am currently hiring PhD students. If you have a strong background in computational mathematics and the above seems interesting (or you have a project in mind that I might find interesting), feel free to reach out!**
