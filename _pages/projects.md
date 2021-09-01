@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Please find below a high-level summary of some of my work
+description: 
 nav: true
 display_categories: [multiagent systems, inference and computation]
 horizontal: false
