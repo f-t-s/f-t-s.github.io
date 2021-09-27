@@ -23,6 +23,6 @@ Prior to joining Georgia Tech, I received my PhD in applied and computational ma
 Before that, I received my Bachelor's and Master's degrees in Mathematics at the [University of Bonn](https://www.mathematics.uni-bonn.de/).
 
 My research interests lie at the interface of numerical computation, statistical inference, and competitive games. 
-To learn more, have a look at these [high-level summaries](/projects/) or my [thesis defense](https://youtu.be/Ph1pAv92WBQ).
+To learn more, have a look at these [high-level summaries](/projects/) or the [defense](https://youtu.be/Ph1pAv92WBQ), of my [thesis](https://thesis.library.caltech.edu/14261/3/main-bibtex.pdf).
 
 **I am currently hiring PhD students. If you have a strong background in computational mathematics and the above seems interesting (or you have a project in mind that I might find interesting), feel free to reach out!**
