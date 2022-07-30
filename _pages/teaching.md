@@ -6,11 +6,7 @@ description:
 nav: true
 nav_order: 5
 ---
-#### Teaching assistant at Caltech:
+#### Teaching at Georgia Tech:
 
-###### ACM 118: Stochastic Processes and Regression (Winter 2019/20)
-###### ACM 201: Partial Differential Equations (Fall 2018)
-###### ACM 216: Markov Chains, Discrete Stochastic Processes and Applications (Winter 2017/18)
-###### ACM 95b: Introductory Methods of Applied Mathematics (Winter 2016/17)
-###### ACM 104: Applied Linear Algebra (Fall 2016)
----
+###### CSE6640 Iterative Methods for Systems of Equations, Fall 2022
+###### CSE6740 Computational Data Analysis, Spring 2022
