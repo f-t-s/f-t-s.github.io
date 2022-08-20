@@ -99,6 +99,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  people:
+    output: true
+    permalink: /people/:path/
+
 
 news_limit: 5
 
