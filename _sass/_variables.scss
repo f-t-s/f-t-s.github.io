@@ -24,7 +24,7 @@ $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
 
 $grey-color:          #828282 !default;
-$grey-color-light:    lighten($grey-color, 40%);
+$grey-color-light:    lighten($grey-color, 25%);
 $grey-color-dark:     darken($grey-color, 25%);
 
 $white-color: #ffffff !default;
@@ -33,7 +33,7 @@ $black-color: #000000 !default;
 // Adding the Florian color-scheme colors
 $theme-seagreen-color: #23553c;
 $theme-greyblue-color: #a1b4c7;
-$theme-silvergrey-color: #b0aba8;
+$theme-silvergrey-color: #9e9997;
 $theme-orange-color: #ea8810;
 $theme-rust-color: #b8420f;
 
