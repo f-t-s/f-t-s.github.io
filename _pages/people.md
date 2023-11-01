@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: 
 nav: true
-display_categories: [graduate students, undergraduate students, alumni]
+display_categories: [Ph.D. students, B.S. and M.S. students, alumni]
 horizontal: false
 ---
 <div class="projects">
