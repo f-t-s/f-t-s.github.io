@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Stephen Huan
-description: CS major
+description: CS major <br> -> Ph.D. student at CMU
 importance: 1
 img: /assets/img/profile_pictures/stephen_huan.jpg
-category: B.S. and M.S. students
+category: alumni
 redirect: https://cgdct.moe/
 ---
