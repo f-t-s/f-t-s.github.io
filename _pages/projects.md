@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: 
 nav: true
-display_categories: [multiagent systems, inference and computation]
+display_categories: [information geometric mechanics, multiagent systems, inference and computation]
 horizontal: false
 ---
 
